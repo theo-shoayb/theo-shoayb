@@ -1,3 +1,7 @@
+
+
+I am editing the README file. Adding some more details about the project description.
+
 - 👋 Hi, I’m @theo-shoayb
 - 👀 I’m interested in data analytics and data science 
 - 🌱 I’m currently learning python and automation
